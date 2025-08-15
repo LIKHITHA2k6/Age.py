@@ -1,0 +1,10 @@
+from date time import date
+Name = input("Enter the name of the person:")
+DOB = int(input)("Enter his year of birth:")
+
+current year = date .today ().year
+Age = Current year - DOB
+if(Age>60):
+ print("Name is a senior Citizen ")
+else:
+print("Name, is not a senior citizen")
